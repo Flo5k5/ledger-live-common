@@ -8,7 +8,7 @@
     "@ledgerhq/hw-transport-web-ble": "^4.46.0",
     "@ledgerhq/hw-transport-webusb": "^4.46.0",
     "@ledgerhq/live-common": "file:..",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-polyfill": "^6.26.0",
     "bignumber.js": "^7.2.1",
     "flow-bin": "^0.94.0",
